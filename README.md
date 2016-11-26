@@ -1,2 +1,2 @@
 # hellow-world
-hellow, github!
+I'm coder bi from china, and this is my first repository. 
